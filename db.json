@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "pause"
+  },
+  "status": {
+    "pause"  
   }
 }
